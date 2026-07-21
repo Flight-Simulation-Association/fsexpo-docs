@@ -43,7 +43,7 @@
               "shipping/overview",
               "shipping/self-load-in-out",
               "shipping/fedex-office",
-              "shipping/advance-warehouse",
+              "shipping/shipping-inbound",
               "shipping/shipping-outbound"
             ]
           },
