@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "FlightSimExpo Partner Docs",
+  "name": "FlightSimExpo Exhibitor Manual",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#C0202C",
+    "light": "#C0202C",
+    "dark": "#C0202C"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -17,14 +17,14 @@
             "group": "Getting Started",
             "pages": [
               "index",
-              "start-here",
+              "quickstart",
               "avoiding-scams"
             ]
           },
           {
             "group": "Schedule & Deadlines",
             "pages": [
-              "schedule/key-dates",
+              "schedule/key-deadlines",
               "schedule/event-schedule"
             ]
           },
@@ -32,6 +32,7 @@
             "group": "Plan Your Booth",
             "pages": [
               "booth/specs-and-equipment",
+              "booth/selling-onsite",
               "booth/attendee-giveaways"
             ]
           },
@@ -56,8 +57,8 @@
             "group": "On-Site Info",
             "pages": [
               "on-site/security-and-access",
-              "on-site/food-and-meeting-space",
-              "on-site/selling-and-sales-tax"
+              "on-site/food-and-beverage",
+              "on-site/meeting-space"
             ]
           },
           {
@@ -80,26 +81,29 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:info@flightsimexpo.com"
+        "href": "mailto:info@flightsimassociation.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "flightsimexpo.com",
-      "href": "https://flightsimexpo.com"
+      "label": "Partner Hub",
+      "href": "https://flightsimexpo.com/hub"
     }
   },
-  "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+  "footer": {
+    "socials": {
+      "x": "https://x.com/FlightSimExpo",
+      "facebook": "https://www.facebook.com/FlightSimExpo",
+      "instagram": "https://www.instagram.com/FlightSimExpo",
+      "youtube": "https://www.youtube.com/c/FlightSimExpo",
+      "discord": "https://flightsimexpo.com/discord"
+    }
   },
-  "footer": {}
+  "description": "Logistics information for FlightSimExpo partners.",
+  "appearance": {
+    "strict": true
+  },
+  "background": {
+    "decoration": "grid"
+  }
 }
