@@ -18,7 +18,7 @@
             "pages": [
               "index",
               "quickstart",
-              "avoiding-scams"
+              "feedback-and-tips"
             ]
           },
           {
@@ -33,7 +33,8 @@
             "pages": [
               "booth/specs-and-equipment",
               "booth/selling-onsite",
-              "booth/attendee-giveaways"
+              "booth/giveaways-and-activations",
+              "booth/promote-your-presence"              
             ]
           },
           {
@@ -46,27 +47,18 @@
             ]
           },
           {
+            "group": "Other Logistics",
+            "pages": [
+              "logistics/security-and-access",
+              "logistics/food-and-beverage",
+              "logistics/avoiding-scams"
+            ]
+          },
+          {
             "group": "Travel & Venue",
             "pages": [
               "travel/hotel-and-travel-discounts",
-              "travel/parking",
-              "travel/venue"
-            ]
-          },
-          {
-            "group": "On-Site Info",
-            "pages": [
-              "on-site/security-and-access",
-              "on-site/food-and-beverage",
-              "on-site/meeting-space"
-            ]
-          },
-          {
-            "group": "Get Involved",
-            "pages": [
-              "get-involved/promote-the-event",
-              "get-involved/discord",
-              "get-involved/feedback-and-tips"
+              "travel/parking"
             ]
           }
         ]
