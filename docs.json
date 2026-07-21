@@ -41,9 +41,10 @@
             "group": "Shipping & Freight",
             "pages": [
               "shipping/overview",
-              "shipping/advance-warehouse",
               "shipping/self-load-in-out",
-              "shipping/shipping-out"
+              "shipping/fedex-office",
+              "shipping/advance-warehouse",
+              "shipping/shipping-outbound"
             ]
           },
           {
