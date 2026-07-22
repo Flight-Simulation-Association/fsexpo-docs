@@ -67,8 +67,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
   },
   "navbar": {
     "links": [
@@ -79,8 +79,8 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Partner Hub",
-      "href": "https://flightsimexpo.com/hub"
+      "label": "Event Website",
+      "href": "https://flightsimexpo.com/"
     }
   },
   "footer": {
@@ -93,9 +93,6 @@
     }
   },
   "description": "Logistics information for FlightSimExpo partners.",
-  "appearance": {
-    "strict": true
-  },
   "background": {
     "decoration": "grid"
   }
