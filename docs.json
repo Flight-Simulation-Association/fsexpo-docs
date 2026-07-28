@@ -17,7 +17,6 @@
             "group": "Getting Started",
             "pages": [
               "index",
-              "quickstart",
               "feedback-and-tips"
             ]
           },
@@ -38,13 +37,23 @@
             ]
           },
           {
-            "group": "Shipping & Freight",
+            "group": "Inbound Shipping & Freight",
             "pages": [
-              "shipping/overview",
-              "shipping/self-load-in-out",
-              "shipping/fedex-office",
-              "shipping/shipping-inbound",
-              "shipping/shipping-outbound"
+              "inbound-shipping/overview",
+              "inbound-shipping/self-load-in",
+              "inbound-shipping/fedex-office",
+              "inbound-shipping/loading-dock",
+              "inbound-shipping/warehouse"
+            ]
+          },
+          {
+            "group": "Outbound Shipping & Freight",
+            "pages": [
+              "outbound-shipping/overview",
+              "outbound-shipping/self-load-out",
+              "outbound-shipping/fedex-office",
+              "outbound-shipping/loading-dock",
+              "outbound-shipping/warehouse"
             ]
           },
           {
